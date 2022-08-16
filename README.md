@@ -1,7 +1,7 @@
 ## Quicker Method to Submit
 
 This tool is for the Codeforces.  
-You can submit from the **Codeforces** contest problem page **directly**.
+It makes each problem in the problem set colored corresponding to their rating.
 
 ## Install
 
@@ -15,5 +15,6 @@ Click [userscript install link](https://github.com/LumaKernel/cf-fast-submit/raw
 
 ---
 
-Here is this tool thanks to Codeforces!
+Hope U like this, Do cool stuff with this.
+Have a nice day 'UwU'
 
