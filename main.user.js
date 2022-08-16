@@ -1,13 +1,15 @@
 // ==UserScript==
-// @name         colored-cf-problemset
+// @name         New Userscript
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  colored problemset corresponding to their rating
-// @author       suraj-xd
+// @description  try to take over the world!
+// @author       You
 // @match        https://codeforces.com/problemset
+// @match        https://codeforces.com/problemset/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=codeforces.com
 // @grant        none
 // ==/UserScript==
+
 
 (function() {
   document.querySelectorAll('.dark').forEach(item => item.classList.remove('dark'));
@@ -23,7 +25,6 @@ var arrColors = {
   '3000':'#fe3333',
   'legendary':'#aa0001'
 }
-
 function checkRatingLevel(level){
   if(level<= 1200) return arrColors[1200];
   else if (level<= 1400) return arrColors[1400];

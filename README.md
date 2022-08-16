@@ -1,17 +1,17 @@
-## Quicker Method to Submit
+## Colored-CF ProblemSet
 
-This tool is for the Codeforces.  
+This one is for the Codeforces.  
 It makes each problem in the problem set colored corresponding to their rating.
 
 ## Install
-
-Click [userscript install link](https://github.com/LumaKernel/cf-fast-submit/raw/master/main.user.js)
+1. Make Sure you have [TamperMonkey](https://www.tampermonkey.net/) Extension installed on your browser.
+2. Click [userscript install link](https://github.com/LumaKernel/cf-fast-submit/raw/master/main.user.js)
 
 ## Links
 
 * GitHub repository: [LumaKernel/cf-fast-submit](https://github.com/LumaKernel/cf-fast-submit)
-* author's twitter: [@lumc_](https://twitter.com/lumc_)
-* codeforces blog entry: [https://codeforces.com/blog/entry/66646](https://codeforces.com/blog/entry/66646)
+* lintree: [@surajxd](https://linktr.ee/surajxd)
+* Portpolio: [MoonKnightThemed](https://surajxmoon.netlify.app/)
 
 ---
 
