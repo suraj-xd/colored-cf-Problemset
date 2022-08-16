@@ -16,5 +16,6 @@ It makes each problem in the problem set colored corresponding to their rating.
 ---
 
 Hope U like this, Do cool stuff with this.
-Have a nice day 'UwU'
+<br>
+Have a nice day  <h4>'UwU'</h4>
 
