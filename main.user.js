@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://codeforces.com/problemset
+// @match        https://codeforces.com/problemset*
 // @match        https://codeforces.com/problemset/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=codeforces.com
 // @grant        none
