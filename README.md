@@ -1,21 +1,20 @@
-## Colored-CF ProblemSet
+# 📶 Auto-Connect-Wifi (Rungta-College, Bhilai)
 
-This one is for the Codeforces.  
-It makes each problem in the problem set colored corresponding to their rating.
+Automate the process of connecting to your college Wi-Fi effortlessly, without any user interaction.
 
-## Install
-1. Make Sure you have [TamperMonkey](https://www.tampermonkey.net/) Extension installed on your browser.
-2. Click [userscript install link](https://github.com/suraj-xd/colored-cf-Problemset/raw/master/main.user.js)
+## Installation
+1. **Prerequisites:** Ensure you have the [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) browser extension installed.
+
+2. **Installation:** Click the link below to install the script:
+   <a href="https://github.com/suraj-xd/auto-connect-wifi/raw/master/main.user.js" target="_blank">
+   <img src="https://img.shields.io/badge/Install-Script-blue.svg" alt="Install Script">
+   </a>
 
 ## Links
-
-* GitHub repository: [suraj-xd/colored-cf-Problemset](https://github.com/suraj-xd/colored-cf-Problemset)
-* lintree: [@surajxd](https://linktr.ee/surajxd)
-* Portpolio: [MoonKnightThemed](https://surajxmoon.netlify.app/)
+- GitHub Repository: [suraj-xd/auto-connect-wifi](https://github.com/suraj-xd/auto-connect-wifi){:target="_blank"}
 
 ---
 
-Hope U like this, Do cool stuff with this.
-<br>
-Have a nice day  <h4>'UwU'</h4>
+Enjoy seamless Wi-Fi connectivity with just one click. Say goodbye to manual connections! 😎
 
+Wishing you a fantastic day! 🌟
